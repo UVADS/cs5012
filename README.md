@@ -6,8 +6,12 @@ course uses Slack channel
 
 ### Modules
 
+Notes  
+- contains old branding
+
 - M0: Course Prerequisites: Discrete Mathematics
   - completeness: complete
-  - contains old branding
 - M1: Computational Complexity
+  - completeness: complete
+- M2: Searching, Sorting, and Basic Structures
  
