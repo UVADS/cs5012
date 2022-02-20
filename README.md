@@ -15,4 +15,4 @@ Notes
 - M1: Computational Complexity
   - completeness: complete
 - M2: Searching, Sorting, and Basic Structures
-  - HW solutions don't seem to be included. Rubric not included.
+  - completeness: complete
