@@ -6,9 +6,10 @@ course uses Slack channel
 
 ### Modules
 
-Notes  
-- contains old branding
-- ask that coding assignments be submitted as ipynb
+Notes from Course Developer
+- contains old DSI branding
+- ask that all coding assignments be submitted as ipynb
+- currently reviewing each Module to check if anything needs to be added/modified (completeness check)
 
 - M0: Course Prerequisites: Discrete Mathematics
   - completeness: complete
@@ -16,3 +17,5 @@ Notes
   - completeness: complete
 - M2: Searching, Sorting, and Basic Structures
   - completeness: complete
+- M3: Hashing
+  - under review 
