@@ -6,10 +6,12 @@ course uses Slack channel
 
 ### Modules
 
-Notes from Course Developer
+**Notes from Course Developer**
 - contains old DSI branding
 - ask that all coding assignments be submitted as ipynb
 - currently reviewing each Module to check if anything needs to be added/modified (completeness check)
+
+**Module Status**
 
 - M0: Course Prerequisites: Discrete Mathematics
   - completeness: complete
