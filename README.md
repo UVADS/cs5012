@@ -2,6 +2,8 @@
 
 Resources for course CS 5012: Foundations of Computer Science 
 
+Will contain code from lecture notes, HW assignments
+
 course uses Slack channel
 
 ### Modules
