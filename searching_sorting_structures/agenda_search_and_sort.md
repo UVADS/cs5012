@@ -1,5 +1,14 @@
 ## AGENDA
 
+---  
+
+### Admin Items
+
+---  
+
+### Q & A
+
+---  
 ### Review M2.2 Course Content 
 
 **Sorting**  
@@ -26,3 +35,13 @@ size: not specified in advance
 data accessed: only by traversing the list
 
 Python lists are implemented as dynamic arrays  
+
+---  
+
+### Kickoff 2.4 HW: Sorting Algorithm Comparison
+
+---  
+
+### Breakout Rooms for 2.3 ICA: Group Sorting/Searching Algorithm
+
+
