@@ -22,4 +22,4 @@ course uses Slack channel
 - M2: Searching, Sorting, and Basic Structures
   - completeness: complete
 - M3: Hashing
-  - under review 
+  - looking for python examples of hashing conflict resolution
