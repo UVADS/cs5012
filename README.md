@@ -24,3 +24,4 @@ course uses Slack channel
 - M3: Hashing
   - completeness: complete
 - M4: Graphs and Trees
+  - completeness: complete
