@@ -25,3 +25,4 @@ course uses Slack channel
   - completeness: complete
 - M4: Graphs and Trees
   - completeness: complete
+- M5: BSTs and Balanced Trees
