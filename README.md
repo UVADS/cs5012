@@ -25,5 +25,5 @@ course uses Slack channel
   - completeness: complete
 - M4: Graphs and Trees
   - completeness: complete
-- M5: BSTs and Balanced Trees
+- M5: Specialized Trees - Binary Search Trees and Binary Heaps
   - completeness: complete
