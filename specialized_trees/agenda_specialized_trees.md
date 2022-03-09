@@ -24,6 +24,8 @@ Useful for finding max (max heap) or min (min heap)
 More constraints than BST: shape and order properties  
 Can be stored in an array
 
+**Python module `heapq`**  
+
 ---  
 
 ### Kickoff 5.4 HW: Binary Search Tree
