@@ -54,7 +54,6 @@ for amt in test_amounts:
 cm1.make_change(101)
 cm1.make_change(-1)
 
-cm1.make_change(31)
 
 # Question 1: What small change can be made to give back the largest number of coins?
 
