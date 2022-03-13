@@ -6,6 +6,17 @@ Will contain code from lecture notes, HW assignments
 
 course uses Slack channel
 
+Do these topics get covered?  
+
+• Minimum spanning tree  
+• Kruskal’s algorithm  
+• Prim’s algorithm  
+• Shortest path problem  
+• Bellman-Ford algorithm  
+• Dijkstra’s algorithm  
+• Floyd-Warshall algorithm  
+
+
 ### Modules
 
 **Notes from Course Developer**
@@ -26,4 +37,6 @@ course uses Slack channel
 - M4: Graphs and Trees
   - completeness: complete
 - M5: Specialized Trees - Binary Search Trees and Binary Heaps
+  - completeness: complete
+- M6: Advanced Algorithms I
   - completeness: complete
