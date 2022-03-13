@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Mar 12 19:14:17 2022
-
+Given an amount in [1, 99] cents, make change
+Follow a greedy heuristic, giving back the fewest possible number of coins
 @author: apt4c
 """
 
@@ -52,3 +53,9 @@ for amt in test_amounts:
 # edge cases
 cm1.make_change(101)
 cm1.make_change(-1)
+
+cm1.make_change(31)
+
+# Question 1: What small change can be made to give back the largest number of coins?
+
+# Question 2: Can you think of code modifications to make change following a different heuristic?
