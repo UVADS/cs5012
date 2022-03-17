@@ -38,5 +38,7 @@ Do these topics get covered?
   - completeness: complete
 - M5: Specialized Trees - Binary Search Trees and Binary Heaps
   - completeness: complete
-- M6: Advanced Algorithms I
+- M6: Advanced Algorithms I - Greedy, Divide and Conquer
+  - completeness: complete
+- M7: Advanced Algorithms II - Dynamic Programming
   - completeness: complete
