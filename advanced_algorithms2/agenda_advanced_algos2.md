@@ -4,30 +4,35 @@
 
 ### Admin Items  
 
-There is a midterm in this module.
-
 ---  
 
 ### Q & A
 
 ---  
-### Review M6.2 Course Content 
+### Review M7.2 Course Content 
 
-- **Brute Force (Exhaustive) Search**  
+- **Introduction to Dynamic Programming (DP)**  
 
-- **Heuristics**
+Useful when there is:
+- optimal substructure
+- overlapping subproblems
 
-- **Best-first search (greedy search)**
+Typically apply DP to optimization problems
 
-- A* search   
-widely used in path finding and graph traversal
+DP applies time-memory tradeoff: store solns to subproblems to avoid recompute
 
-- **Change Making Choice Algorithm**
+**Examples:**
 
-- **Interval Scheduling Algorithm**
+- **Longest Common Subsequence (LCS)**
+
+- **Fibonacci Sequence Generation**
+
+**Compare DP vs Greedy vs Divide and Conquer**
 
 ---  
 
-### Breakout Rooms for 6.3 ICA: A* Search
+### Kickoff 7.4 HW
+
+### Breakout Rooms for 7.3 ICA
 
 
