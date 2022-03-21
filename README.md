@@ -6,17 +6,6 @@ Will contain code from lecture notes, HW assignments
 
 course uses Slack channel
 
-Do these topics get covered?  
-
-• Minimum spanning tree  
-• Kruskal’s algorithm  
-• Prim’s algorithm  
-• Shortest path problem  
-• Bellman-Ford algorithm  
-• Dijkstra’s algorithm  
-• Floyd-Warshall algorithm  
-
-
 ### Modules
 
 **Notes from Course Developer**
