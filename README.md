@@ -31,3 +31,5 @@ course uses Slack channel
   - completeness: complete
 - M7: Advanced Algorithms II - Dynamic Programming
   - completeness: complete
+- M8: Classic CS
+  - completeness: complete
