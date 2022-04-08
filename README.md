@@ -34,4 +34,6 @@ course uses Slack channel
 - M8: Classic CS
   - completeness: complete
 - M9: Complexity Classes
-completeness: in prog
+completeness: complete
+- M10: RegEx and Intro to Databases
+completeness: complete
