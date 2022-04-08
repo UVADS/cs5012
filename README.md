@@ -33,3 +33,5 @@ course uses Slack channel
   - completeness: complete
 - M8: Classic CS
   - completeness: complete
+- M9: Complexity Classes
+completeness: in prog
