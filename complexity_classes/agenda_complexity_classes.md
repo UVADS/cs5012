@@ -9,16 +9,18 @@
 ### Q & A
 
 ---  
-### Review M8.2 Course Content 
+### Review M9.2 Course Content 
 
-- **Flow Networks**  
-  - Min Cut - Max Flow
+- **Computational Complexity Classes**  
+Complexity Hierarchy is an organization of algorithms (problem - solution pairs) based on Efficiency (Time and Space) 
+  - P vs NP
+  - NP-Completeness
 
-**Reductions**
-  - Maximum Bipartite Matching using Max Flow
+- **Convex Hulls**  
+Convex hull is smallest polygon excapsulating a shape or set of points 
   
 ---  
 
-### Breakout Rooms for 8.3 ICA
+### Breakout Rooms for 9.3 ICA
 
 
