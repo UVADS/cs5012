@@ -9,18 +9,20 @@
 ### Q & A
 
 ---  
-### Review M9.2 Course Content 
+### Review M10.3 Course Content 
 
-- **Computational Complexity Classes**  
-Complexity Hierarchy is an organization of algorithms (problem - solution pairs) based on Efficiency (Time and Space) 
-  - P vs NP
-  - NP-Completeness
+- **Regular Expressions**  
+Regex Demo
 
-- **Convex Hulls**  
-Convex hull is smallest polygon excapsulating a shape or set of points 
+- **Introduction to Databases**  
+  - Goals of Database Design
+  - Database Types
+  - Relational Database Fundamentals
+  - Database Management Systems (DBMS)
+  - Primary Key
   
 ---  
 
-### Breakout Rooms for 9.3 ICA
+### Kickoff 10.6 HW - Regexes
 
 
