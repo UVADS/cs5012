@@ -37,3 +37,5 @@ course uses Slack channel
   - completeness: complete
 - M10: RegEx and Intro to Databases  
   - completeness: complete
+- M11: Transactions, Distributed Databases and NoSQL  
+  - completeness: complete
