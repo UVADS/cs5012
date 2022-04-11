@@ -21,7 +21,7 @@
   - CAP Theorem
   - BASE Properties
   
---- **Brief Intro to NoSQL** 
+- **Brief Intro to NoSQL** 
 
 ### Kickoff 11.3 ICA
 
