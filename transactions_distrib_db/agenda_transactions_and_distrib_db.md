@@ -9,20 +9,20 @@
 ### Q & A
 
 ---  
-### Review M10.3 Course Content 
+### Review M11.2 Course Content 
 
-- **Regular Expressions**  
-Regex Demo
+- **Transactions and Concurrency Control**   
+  - ACID properties
+  - Transactions
 
-- **Introduction to Databases**  
-  - Goals of Database Design
-  - Database Types
-  - Relational Database Fundamentals
-  - Database Management Systems (DBMS)
-  - Primary Key
+- **Distributed Databases**  
+  - DBs distributed over a network
+  - Data physically stored in different sites, managed by DBMS
+  - CAP Theorem
+  - BASE Properties
   
----  
+--- **Brief Intro to NoSQL** 
 
-### Kickoff 10.6 HW - Regexes
+### Kickoff 11.3 ICA
 
 
