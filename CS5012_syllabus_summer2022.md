@@ -16,13 +16,9 @@ TBA
 
 #### Course Objectives
 
-In this course students gain a better understanding of the underpinnings of the Data Science tools they use from the perspective of a computer scientist.  
-Students will learn to leverage this understanding to improve the effectiveness and efficiency of their code and analytical tools.  
+In this course students gain a better understanding of the underpinnings of the Data Science tools they use from the perspective of a computer scientist.  Students will learn to leverage this understanding to improve the effectiveness and efficiency of their code and analytical tools.  
 
-The purpose of this class is to introduce to you the main CS concepts that you will learn in more detail in the remaining Data Science Master’s program.  
-Due to introducing a variety of concepts, the tradeoff is that there is not enough time to cover them in great detail.  
-A deeper understanding of these concepts will come during subsequent DS courses and while you engage with practicing on your own.  
-As a graduate level course, CS5012 depends a lot on self-regulated learning and further exploration (and practice) of the concepts introduced in this class, at your own time.
+The purpose of this class is to introduce to you the main CS concepts that you will learn in more detail in the remaining Data Science Master’s program.  Due to introducing a variety of concepts, the tradeoff is that there is not enough time to cover them in great detail.  A deeper understanding of these concepts will come during subsequent DS courses and while you engage with practicing on your own.  As a graduate level course, CS5012 depends a lot on self-regulated learning and further exploration (and practice) of the concepts introduced in this class, at your own time.
 
 #### Course Topic Details
 The topics covered in this course include the following, presented in the approximate order in which they will be taught.  
