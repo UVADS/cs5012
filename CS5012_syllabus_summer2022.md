@@ -74,10 +74,12 @@ As a prerequisite, a student should have taken the following courses:
 **Homework assignments**  
 - Should be your own work. You may collaborate on ideas.  
 - Late Homework Assignments: 10% of the total grade will be deducted per day, where the day means 11:59 p.m. cutoff. After five days late, it will be marked as 0 points.
+- **MAKE SURE TO SUBMIT THE CORRECT FILE. Incorrect files are subject to the Late HW Policy.**
 
 **In-class Activities (ICA)**  
 - In-class activities aim to enhance your understanding of presented concepts while working in groups, so it’s important to attend the live session each week; ICAs will be completed in Zoom breakout rooms.
 - ICAs will not be collected after the due date.
+- **MAKE SURE TO SUBMIT THE CORRECT FILE**
 
 #### Final Letter Grade
 
