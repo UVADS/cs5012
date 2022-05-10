@@ -7,7 +7,7 @@ Prof. Adam Tashman
 Email: apt4c@virginia.edu
 
 Teaching assistant:  
-Liz Thompson
+Liz Thompson  
 Email: et7gav@virginia.edu
 
 #### Primary Textbooks (Free digital access: links provided in Collab)
