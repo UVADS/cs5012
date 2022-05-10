@@ -6,8 +6,9 @@ Instructor:
 Prof. Adam Tashman  
 Email: apt4c@virginia.edu
 
-Teaching assistants:  
-TBA
+Teaching assistant:  
+Liz Thompson
+Email: et7gav@virginia.edu
 
 #### Primary Textbooks (Free digital access: links provided in Collab)
     • Introduction to Algorithms (3rd ed.), Cormen, Leiserson, Rivest, Stein. The MIT Press, ISBN: 978-0262033848 (link)
@@ -66,7 +67,7 @@ As a prerequisite, a student should have taken the following courses:
 
 |Component |Weight   |
 |---|---|
-| Homework Assignments (HW)  | 30%  |
+|Homework Assignments (HW)|30%|
 |Quizzes|20%|
 |In-class Activities (ICA)|20%|
 |Exams (2)|30%|
