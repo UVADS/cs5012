@@ -8,6 +8,10 @@ No HW in this module
 
 There is a Quiz: covers Modules 0 & 1
 
+Deliverables generally due Sunday 11:59pm ET unless otherwise noted
+
+### [Syllabus Review](https://github.com/UVADS/cs5012/blob/main/CS5012_syllabus_summer2022.md)
+
 ---  
 
 ### Q & A
