@@ -14,6 +14,7 @@ There is a Quiz: covers Modules 0 & 1
 
 ---  
 ### Review M1.2 Analysis of Algorithms
+In particular, Analysis of Algorithms Deck, starting at slide 16
 
 #### Important Ideas:
 
