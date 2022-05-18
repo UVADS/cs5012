@@ -18,7 +18,9 @@ Deliverables generally due Sunday 11:59pm ET unless otherwise noted
 
 ---  
 ### Review M1.2 Analysis of Algorithms
-In particular, Analysis of Algorithms Deck, starting at slide 16
+In particular:  
+- Analysis of Algorithms Deck, starting at slide 16
+- Order Classes notebook
 
 #### Important Ideas:
 
