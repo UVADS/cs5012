@@ -72,6 +72,9 @@ As a prerequisite, a student should have taken the following courses:
 |In-class Activities (ICA)|20%|
 |Exams (2)|30%|
 
+**Quizzes**  
+- **Quizzes are closed book**
+
 **Homework assignments**  
 - Should be your own work. You may collaborate on ideas.  
 - Late Homework Assignments: 10% of the total grade will be deducted per day, where the day means 11:59 p.m. cutoff. After five days late, it will be marked as 0 points.
@@ -81,6 +84,9 @@ As a prerequisite, a student should have taken the following courses:
 - In-class activities aim to enhance your understanding of presented concepts while working in groups, so it’s important to attend the live session each week; ICAs will be completed in Zoom breakout rooms.
 - ICAs will not be collected after the due date.
 - **MAKE SURE TO SUBMIT THE CORRECT FILE**
+
+**Exams**  
+- **Exams are closed book**
 
 #### Final Letter Grade
 
