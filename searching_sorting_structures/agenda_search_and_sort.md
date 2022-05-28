@@ -34,7 +34,7 @@ data accessed: directly by using pointer arithmetic
 size: not specified in advance  
 data accessed: only by traversing the list
 
-Python lists are implemented as dynamic arrays  
+Python lists are implemented as [dynamic arrays](https://en.wikipedia.org/wiki/Dynamic_array)  
 
 ---  
 
