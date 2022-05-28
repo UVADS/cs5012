@@ -12,7 +12,7 @@
 ### Review M2.2 Course Content 
 
 **Sorting**  
-Many differents algos and approaches presented
+Many different algos and approaches presented  
 sorting is often a first step to search (binary search)
 
 **Merge sort**  
