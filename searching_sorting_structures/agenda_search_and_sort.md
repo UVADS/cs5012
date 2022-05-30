@@ -11,12 +11,18 @@
 ---  
 ### Review M2.2 Course Content 
 
+**Searching**  
+- Searching algos deck, starting on p5  
+Binary search - complexity O(log n)  
+
 **Sorting**  
+- Sorting algos deck, starting on slide 3  
+Briefly discuss *sorting stability*  
 Many different algos and approaches presented  
-sorting is often a first step to search (binary search)
+sorting is often a first step to search (binary search)  
 
 **Merge sort**  
-divide-and-conquer algo
+- Divide-and-conquer algo; Sorting algos deck, starting p41; diagram p49  
 one of the most efficient sorting algorithms  
 good time complexity in worst and average cases: O(n log n)  
 pay close attention to this algo
