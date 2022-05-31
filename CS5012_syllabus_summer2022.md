@@ -108,6 +108,12 @@ Your final letter grade will be determined by the following scale:
 |D-| 62.999  |60 |
 |F | 59.999  |0 |
 
+
+#### Preparing for Live Session
+
+- It is recommended that you review the Module ICA in advance
+- It will also be helpful to review Module Course Content in advance
+
 #### Class Management
 
 **General**  
