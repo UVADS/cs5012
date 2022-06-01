@@ -3,6 +3,16 @@
 ---  
 
 ### Admin Items
+- Course Issue Logging
+
+- ICA 1 grading (also mentioned in Announcement)
+
+- 1.4 Module 1 Quiz - version2  
+  Due date: 06/12/2022 11:59 pm  
+  Where: Collab tab - Tests & Quizzes  
+  Topics: Same as Quiz 1 with similar/same questions  
+  Grading of Quiz 1: max(version1, version2)  
+  This won't reflex on Collab, but instructor will compute
 
 ---  
 
