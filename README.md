@@ -14,7 +14,6 @@ Resources for course CS 5012: Foundations of Computer Science
 
 - M0: Course Prerequisites: Discrete Mathematics
 - M1: Computational Complexity  
-      - `Quiz`: be sure to use 1.4 Module 1 Quiz - version2. found under Tests & Quizzes
 - M2: Searching, Sorting, and Basic Structures
 - M3: Hashing
 - M4: Graphs and Trees
