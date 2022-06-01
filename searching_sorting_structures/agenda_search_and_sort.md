@@ -3,10 +3,6 @@
 ---  
 
 ### Admin Items
-- Course Issue Logging
-
-- ICA 1 grading (also mentioned in Announcement)
-
 - 1.4 Module 1 Quiz - version2  
   Due date: 06/12/2022 11:59 pm  
   Where: Collab tab - Tests & Quizzes  
