@@ -10,8 +10,6 @@ Resources for course CS 5012: Foundations of Computer Science
 
 ### MODULES
 
-**Module Status**
-
 - M0: Course Prerequisites: Discrete Mathematics
 - M1: Computational Complexity  
 - M2: Searching, Sorting, and Basic Structures
