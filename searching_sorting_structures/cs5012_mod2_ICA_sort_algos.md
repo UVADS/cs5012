@@ -15,11 +15,11 @@ The Task: Put together a short ( 8–10 minute) presentation file for your assig
 1. General description of the algorithm 
 2. Demonstration: How it works (review code/algorithm) 
 3. Advantages 
-4. Disadvantages 
-5. Can you think of ways to remedy any of these disadvantages?
-6. State the Complexity (in the worst case—that is Big-Oh!) and briefly explain why it has that complexity
-7. Would you recommend this algorithm? Why or why not? 
-8. Scenario in which you’d use this algorithm
+4. Disadvantages  
+   - Can you think of ways to remedy any of these disadvantages?
+5. State the Complexity (in the worst case—that is Big-Oh!) and briefly explain why it has that complexity
+6. Would you recommend this algorithm? Why or why not? 
+   - Scenario in which you’d use this algorithm
 
 Use the videos and slides provided earlier in this module to assist in this activity.  
 Elect one member in your group to submit your file as powerpoint or pdf.  
