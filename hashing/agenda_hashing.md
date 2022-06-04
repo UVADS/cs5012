@@ -26,5 +26,6 @@
 ---  
 
 ### Breakout Rooms for 3.3 ICA: Hashing Collision Resolution
+    Let's work in groups of size 3-4
 
 
