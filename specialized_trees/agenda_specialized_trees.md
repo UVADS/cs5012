@@ -4,7 +4,8 @@
 
 ### Admin Items  
 
-There is a quiz in this module. The course content outlined below provides guidance.
+Heads up: this module contains Quiz, ICA, HW. Additional time will be provided for HW.
+
 
 ---  
 
