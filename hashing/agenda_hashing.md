@@ -11,6 +11,9 @@
 ---  
 ### Review M3.2 Course Content 
 
+> Course Content: Hashing deck; beginning and slide 15: collision
+> Hashing Examples deck
+
 **Hashing, Hash Table, Hash Function**  
 - hash table: can be searched in O(1) time
 - find an item in array almost without search
