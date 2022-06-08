@@ -11,7 +11,7 @@
 ---  
 ### Review M3.2 Course Content 
 
-> Course Content: Hashing deck; beginning and slide 15: collision
+> Course Content: Hashing deck; beginning and slide 15: collision  
 > Hashing Examples deck
 
 **Hashing, Hash Table, Hash Function**  
