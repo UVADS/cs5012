@@ -5,7 +5,7 @@ Resources for course CS 5012: Foundations of Computer Science
 **NOTES**
 - the course revisits several topics, such as computational complexity
 - many of the topics are cumulative, so be sure to understand them
-- instructor to create course Slack channel
+- instructor to create course Teams channel
 - each module folder in this repo has agenda. instructors can modify agendas as needed.
 
 ### MODULES
