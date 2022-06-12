@@ -19,8 +19,6 @@ Design pattern - slide25
 **Traversing a Tree**   
 Review Depth First Search python code
 
-**Graphs**
-
 ---  
 
 ### Kickoff 4.4 HW: Building a Graph
