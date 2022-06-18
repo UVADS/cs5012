@@ -35,7 +35,7 @@ Can be stored in an array
   - inserting into heap
   - deleting from heap
 
-> Review jupyter nb: `heapq`**  
+> Review jupyter nb: `heapq`
 
 ---  
 
