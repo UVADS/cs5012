@@ -29,7 +29,13 @@ Useful for finding max (max heap) or min (min heap)
 More constraints than BST: shape and order properties  
 Can be stored in an array
 
-**Python module `heapq`**  
+> Review deck: Binary Heaps
+  - start at slide20
+  - slide28 shows good valid/invalid examples
+  - inserting into heap
+  - deleting from heap
+
+> Review jupyter nb: `heapq`**  
 
 ---  
 
