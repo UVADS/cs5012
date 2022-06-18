@@ -19,6 +19,10 @@ Highly constrained (discuss)
 Very useful for searching data w expected runtime O(log n)   
 Shortcomings: can get unbalanced, can produce worst case runtime O(n)
 
+> Review deck: Binary Search Tree; in particular 
+  - insert node - slide18
+  - delete node (at end)
+
 **Heap**  
 Not useful for searching for data values  
 Useful for finding max (max heap) or min (min heap)  
