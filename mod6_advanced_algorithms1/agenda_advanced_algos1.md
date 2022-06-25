@@ -13,18 +13,35 @@ There is a midterm in this module.
 ---  
 ### Review M6.2 Course Content 
 
-- **Brute Force (Exhaustive) Search**  
+- Important Topics:
+  - **Divide and Conquer** - solve a problem by: 
+   1) divide problem into smaller subproblems 
+   2) solving the subproblems
+   3) combining the subproblem solutions
 
-- **Heuristics**
+  - **Brute Force (Exhaustive) Search**
+  - **Heuristics**
 
-- **Best-first search (greedy search)**
+  - **Greedy methods**  
+    makes locally optimal choices; global optimum not guaranteed  
+    solves a problem by: 
+   1) divide problem into smaller subproblems 
+   2) choose best (greedy) solution to each subproblem.
+      
+  - **Best-first search (greedy search)**
+  - A* search  
+   widely used in path finding and graph traversal
 
-- A* search   
-widely used in path finding and graph traversal
+**We will review:**
+> Greedy Algorithms deck; start at slide 16
+- Best-first Search
+- A* Search
 
-- **Change Making Choice Algorithm**
+> Greedy Algorithm Design deck
+- change making
+- interval scheduling
 
-- **Interval Scheduling Algorithm**
+> walk through `greedy_change_maker.py`
 
 ---  
 
