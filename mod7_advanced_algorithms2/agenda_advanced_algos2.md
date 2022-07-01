@@ -29,6 +29,11 @@ DP applies time-memory tradeoff: store solns to subproblems to avoid recompute
 
 **Compare DP vs Greedy vs Divide and Conquer**
 
+> Review LCS deck. Explain how to fill in table.  
+> Review Edit Distance deck. starting slide 17. Explain how to fill in table.
+
+Note the recursive substructure in both methods.
+
 ---  
 
 ### Kickoff 7.4 HW on Edit Distance
