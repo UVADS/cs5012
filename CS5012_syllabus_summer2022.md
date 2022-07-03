@@ -58,10 +58,12 @@ It is expected, at the completion of this course, students will be able to:
 #### Course Requirements
 As a prerequisite, a student should have taken the following courses:  
 
-- An introductory course in programming
 - Calculus
 - Probability/statistics
 - Linear algebra
+- An introductory course in Python programming
+  - You might want to briefly review your notes from the Python course (e.g., DS 5100)
+    - In addition to the basics, make sure you understand how to use classes and functions
 
 #### Assessment
 
