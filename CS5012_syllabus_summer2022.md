@@ -62,7 +62,7 @@ As a prerequisite, a student should have taken the following courses:
 - Probability/statistics
 - Linear algebra
 - An introductory course in Python programming
-  - You might want to briefly review your notes from the Python course (e.g., DS 5100)
+  - You might want to briefly review your notes from the Python course (e.g., DS 5100 repo [here](https://github.com/UVADS/ds5100/))
     - In addition to the basics, make sure you understand how to use classes and functions
 
 #### Assessment
