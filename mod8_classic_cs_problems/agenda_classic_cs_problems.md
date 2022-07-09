@@ -23,7 +23,10 @@ Important concepts:
 - augmented path
 
 **Reductions**
-  - Maximum Bipartite Matching using Max Flow
+> Walk through Reductions deck, explaning:
+- Solving Maximum Bipartite Matching using Max Flow  
+Interestingly and perhaps not obvious at first, we can use Max Flow to solve this matching problem.  
+This is an example of a reduction (use known solution to solve analogous problem)
   
 ---  
 
