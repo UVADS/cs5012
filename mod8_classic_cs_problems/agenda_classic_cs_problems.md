@@ -20,7 +20,7 @@ Important concepts:
 - residual graph captures additional flow possible
 - forward edge
 - backward edge
-- augmented path
+- augmenting path
 
 **Reductions**
 > Walk through Reductions deck, explaning:
