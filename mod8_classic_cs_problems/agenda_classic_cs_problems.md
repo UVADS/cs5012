@@ -3,7 +3,7 @@
 ---  
 
 ### Admin Items  
-- Aug 3 Live Session will be held Monday Aug 1 and recorded (I am traveling)
+- Aug 3 Live Session will be held Monday Aug 1 from 8:30pm-9:30pm ET and recorded (I am traveling)
 - Final Module 11 runs Aug 1-11. During Aug 10 Live Session, we can discuss:
   - content questions
   - ask me anything about data science 
