@@ -3,7 +3,7 @@
 **Challenges**  
 The most challenging thing for students has been the breadth of coverage in the time available.  
 The course developers chose to cover a vast array of topics, some in detail.  
-**Focusing your attention on the Learning Outcomes will help on assessment items.**  
+**Focusing your attention on the items in the Learning Outcomes will help on assessment items.**  
 Example: while many sort algorithms are discussed, Merge Sort is a focus.
 
 **Big Ideas**
