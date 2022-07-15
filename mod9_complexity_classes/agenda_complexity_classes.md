@@ -16,8 +16,9 @@ Complexity Hierarchy is an organization of algorithms (problem - solution pairs)
   - P vs NP
   - NP-Completeness
 
-- **Convex Hulls**  
+- **Convex Hull Problem and Graham's Scan**  
 Convex hull is smallest polygon excapsulating a shape or set of points 
+> Convex Hulls deck slide7
   
 ---  
 
