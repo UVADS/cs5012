@@ -1,4 +1,5 @@
 ### Notes for Students and Instructors
+---
 
 **Challenges**  
 1. The most challenging thing for students has been the breadth of coverage in the time available.  
@@ -20,7 +21,8 @@ Example: while many sort algorithms are discussed, Merge Sort is a focus.
 Some topics, such as time complexity, come up repeatedly in the course. Make it your friend!
 
 **In Class Activities (ICAs)**  
-Live Sessions include 15-20 mins for ICAs where students work in small groups. 
+Live Sessions include 15-20 mins for ICAs where students work in small groups.  
+They're fun and students really benefit and learn a lot from one another.
 
 **Coding Prerequisites**  
 Make sure you really understand implementing these items in Python:
