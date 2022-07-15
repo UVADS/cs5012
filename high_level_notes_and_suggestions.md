@@ -1,10 +1,15 @@
 ### Notes for Students and Instructors
 
 **Challenges**  
-The most challenging thing for students has been the breadth of coverage in the time available.  
+1. The most challenging thing for students has been the breadth of coverage in the time available.  
 The course developers chose to cover a vast array of topics, some in detail.  
 **Focusing your attention on the items in the Learning Outcomes will help on assessments.**  
 Example: while many sort algorithms are discussed, Merge Sort is a focus.
+
+2. Really understanding an algorithm means knowing how it works, why it works and how to code it. 
+    Run the code in debug mode and step through it.
+    
+3. Many tasks with trees (measuring its depth) can be solved with recursion. It takes practice to use this effectively.
 
 **Big Ideas**
 - Data structures: how they work, pros & cons of each
