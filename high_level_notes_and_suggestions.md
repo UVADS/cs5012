@@ -7,12 +7,12 @@ The course developers chose to cover a vast array of topics, some in detail.
 Example: while many sort algorithms are discussed, Merge Sort is a focus.
 
 **Big Ideas**
-- Data structures
-- Algorithms
+- Data structures: how they work, pros & cons of each
+- Algorithms: how they work, pros & cons of each (e.g., greedy, exhaustive, dynamic programming, ...)
 - Concepts of Databases
 
 **Cumulative Knowledge**  
-Some topics, such as time complexity, come up repeatedly in the course. 
+Some topics, such as time complexity, come up repeatedly in the course. Make it your friend!
 
 **In Class Activities (ICAs)**  
 Live Sessions include 15-20 mins for ICAs where students work in small groups. 
