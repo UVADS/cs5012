@@ -4,6 +4,8 @@
 
 ### Admin Items  
 
+Final exam: Aug 1-11
+
 ---  
 
 ### Q & A
