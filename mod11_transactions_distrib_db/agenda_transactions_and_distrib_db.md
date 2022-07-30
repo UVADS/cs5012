@@ -14,6 +14,7 @@
 - **Transactions and Concurrency Control**   
   - ACID properties
   - Transactions
+  - Database locks [example:](https://www.methodsandtools.com/archive/archive.php?id=83) 
 
 - **Distributed Databases**  
   - DBs distributed over a network
