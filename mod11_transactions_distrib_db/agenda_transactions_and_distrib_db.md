@@ -18,7 +18,7 @@ Final exam: Aug 1-11
   - Transactions
   - Database locks [example:](https://www.methodsandtools.com/archive/archive.php?id=83) 
 
-- **Distributed Databases**  
+- **Distributed Databases and NoSQL (start at slide 15)**  
   - DBs distributed over a network
   - Data physically stored in different sites, managed by DBMS
   - CAP Theorem
